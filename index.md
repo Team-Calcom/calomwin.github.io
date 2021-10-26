@@ -10,6 +10,6 @@
 5. After installation is complete, click on the application file to start the application.
 ```
 
-### Support or Contact
+### Support
 
 Having trouble with Pages or Installation? Contact us at support@pycalc.com to get support in 24 hours.
